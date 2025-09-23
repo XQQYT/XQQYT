@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hello! I'm [XQQYT]
+# 👋 Hello! I'm XQQYT
 
 ### 🚀 Full Stack Developer | 💻 Open Source Enthusiast
 
@@ -23,6 +23,5 @@
 <div align="center">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XQQYT&layout=compact&theme=radical&hide_border=true&langs_count=10)
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=XQQYT&theme=react-dark&hide_border=true&area=true)
 
 </div>
