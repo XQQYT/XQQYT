@@ -1,10 +1,6 @@
 <div align="center">
 
-# 👋 Hello! I'm XQQYT
-
 ### 🚀 C++ Developer | 💻 Open Source Enthusiast
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xqqyt0502@163.com)
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=XQQYT.XQQYT)
 [![GitHub followers](https://img.shields.io/github/followers/XQQYT?style=social)](https://github.com/XQQYT)
@@ -16,7 +12,6 @@
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XQQYT&show_icons=true&count_private=true&hide_border=true&theme=radical&include_all_commits=true)
-
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=XQQYT&theme=radical&hide_border=true)
 
 </div>
