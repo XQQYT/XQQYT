@@ -1,33 +1,38 @@
 <div align="center">
 
-# Hello World! 👋 I'm 你的名字
+# 👋 Hello! I'm [XQQYT]
 
-## 🚀 Full Stack Developer
+### 🚀 Full Stack Developer | 💻 Open Source Enthusiast
 
-[![GitHub followers](https://img.shields.io/github/followers/你的用户名?style=social)](https://github.com/你的用户名)
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=你的用户名.你的用户名)](https://github.com/你的用户名)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xqqyt0502@163.com)
 
-## 📊 This Week I Spent My Time On
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=XQQYT.XQQYT)
+[![GitHub followers](https://img.shields.io/github/followers/XQQYT?style=social)](https://github.com/XQQYT)
 
-<!-- WakaTime统计 -->
-[![wakatime](https://wakatime.com/badge/user/用户ID.svg)](https://wakatime.com/@你的用户名)
+</div>
 
-## 🛠️ My Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-
-## 📈 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=radical)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=你的用户名&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XQQYT&show_icons=true&count_private=true&hide_border=true&theme=radical&include_all_commits=true)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=XQQYT&theme=radical&hide_border=true)
 
 </div>
 
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XQQYT&layout=compact&theme=radical&hide_border=true&langs_count=10)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=XQQYT&theme=react-dark&hide_border=true&area=true)
+
 </div>
+
+## 🗂️ All Projects Summary
+
+### 📈 Repository Statistics
+| Metric | Count |
+|--------|-------|
+| **Total Repositories** | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=Public&query=public_repos&url=https://api.github.com/users/XQQYT) |
+| **Total Stars** | ![](https://img.shields.io/badge/dynamic/json?color=yellow&label=Stars&query=%24.public_gists&url=https://api.github.com/users/XQQYT) |
+| **Total Forks** | ![](https://img.shields.io/badge/dynamic/json?color=green&label=Forks&query=%24.followers&url=https://api.github.com/users/XQQYT) |
+| **Contributions** | ![](https://img.shields.io/badge/dynamic/json?color=orange&label=This%20Year&query=%24.following&url=https://api.github.com/users/XQQYT) |
