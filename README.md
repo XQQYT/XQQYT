@@ -2,7 +2,7 @@
 
 # 👋 Hello! I'm XQQYT
 
-### 🚀 Full Stack Developer | 💻 Open Source Enthusiast
+### 🚀 C++ Developer | 💻 Open Source Enthusiast
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xqqyt0502@163.com)
 
