@@ -26,13 +26,3 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=XQQYT&theme=react-dark&hide_border=true&area=true)
 
 </div>
-
-## 🗂️ All Projects Summary
-
-### 📈 Repository Statistics
-| Metric | Count |
-|--------|-------|
-| **Total Repositories** | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=Public&query=public_repos&url=https://api.github.com/users/XQQYT) |
-| **Total Stars** | ![](https://img.shields.io/badge/dynamic/json?color=yellow&label=Stars&query=%24.public_gists&url=https://api.github.com/users/XQQYT) |
-| **Total Forks** | ![](https://img.shields.io/badge/dynamic/json?color=green&label=Forks&query=%24.followers&url=https://api.github.com/users/XQQYT) |
-| **Contributions** | ![](https://img.shields.io/badge/dynamic/json?color=orange&label=This%20Year&query=%24.following&url=https://api.github.com/users/XQQYT) |
