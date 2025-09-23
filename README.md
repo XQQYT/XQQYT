@@ -15,9 +15,3 @@
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=XQQYT&theme=radical&hide_border=true)
 
 </div>
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XQQYT&layout=compact&theme=radical&hide_border=true&langs_count=10)
-
-</div>
