@@ -1,13 +1,13 @@
 <div align="center">
 
-### 🚀 C++ Developer | 💻 Open Source Enthusiast
+###  C++ Developer |  Open Source Enthusiast
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=XQQYT.XQQYT)
 [![GitHub followers](https://img.shields.io/github/followers/XQQYT?style=social)](https://github.com/XQQYT)
 
 </div>
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
