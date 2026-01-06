@@ -15,7 +15,5 @@
 ![GitHub关注者](https://img.shields.io/github/followers/XQQYT?style=for-the-badge&label=关注者&color=green)
 ![GitHub仓库数](https://img.shields.io/badge/仓库-8-blue?style=for-the-badge)
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=XQQYT&theme=github-compact&hide_border=true&area=true)](https://github.com/XQQYT)
-
 </div>
 </div>
